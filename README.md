@@ -7,7 +7,7 @@ Este informe interactivo fue desarrollado en Power BI con el objetivo de analiza
 - En 2024, el monto total de compras realizadas asciende a $4.982.163.
 - Se trabajó con un total de 69 proveedores, siendo Marketing Global el principal proveedor del año.
 
-También, mas allá de los datos resultantes del año 2024, se hace un paneo sobre egresos y caracteristicas de los proveedores desde los inicios de la Fundación:
+También, mas allá de los datos resultantes del año 2024, se brinda un pantallazo sobre egresos y caracteristicas de los proveedores desde los inicios de la Fundación:
 - A lo largo del tiempo, las compras alcanzaron su punto máximo en 2020, con más de 21 millones de pesos, y han disminuido gradualmente desde entonces.
 - La mayor concentración de proveedores se encuentra en Buenos Aires (73), seguida por otras ciudades como Mendoza, Merlo y Bahía Blanca.
 - En cuanto al tipo de contribuyente, predominan los Responsables Inscriptos (202), aunque también se cuenta con 171 Monotributistas.
