@@ -1,4 +1,4 @@
-# PS.-Gestion_proveedores_y_donantes-POWER_BI
+Gestion_proveedores_y_donantes-POWER_BI
 [Proveedores y Donantes PBI.pdf](https://github.com/user-attachments/files/19974939/Proveedores.y.Donantes.PBI.pdf)
 
 Este informe interactivo fue desarrollado en Power BI con el objetivo de analizar y visualizar los datos relacionados con los proveedores de una organización sin fines de lucro. La finalidad fue brindar una herramienta que facilite la toma de decisiones en la gestión de compras y contrataciones.
