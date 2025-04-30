@@ -13,9 +13,10 @@ También, mas allá de los datos resultantes del año 2024, se brinda un pantall
 - En cuanto al tipo de contribuyente, predominan los Responsables Inscriptos (202), aunque también se cuenta con 171 Monotributistas.
 - Las principales formas jurídicas de los proveedores son S.A. (156) y S.R.L. (148), con una menor proporción de Cooperativas (69).
 
-![image](https://github.com/user-attachments/assets/b4724c3b-1508-4ebb-bba4-6380b3b191cf)
+![image](https://github.com/user-attachments/assets/187be27d-3bbc-40d0-bc1f-3d1ab631dde4)
 
-En esta solapa se resenta un análisis integral de las donaciones recibidas por la organización hasta 2024, con el objetivo de optimizar la comprensión de las fuentes de financiamiento y su evolución.
+
+A continuación la solapa resenta un análisis integral de las donaciones recibidas por la organización hasta 2024, con el objetivo de optimizar la comprensión de las fuentes de financiamiento y su evolución.
 
 📌 Datos clave:
 - En 2024, se registraron donaciones por un total de $45.122.386, provenientes de 119 aportes realizados por 341 donantes activos.
